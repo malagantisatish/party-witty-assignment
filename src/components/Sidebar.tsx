@@ -42,7 +42,7 @@ const Sidebar = () => {
                     <img src={moreIcon} className='h-6 w-6' />
                     <p className='font-lexend font-normal text-[18px] leading-[100%] tracking-[0] capitalize'>More</p>
                 </div>
-                <div className='bg-[linear-gradient(263.53deg,_#151521_0%,_#151724_25.08%,_#063A50_51.11%,_#07384C_64.27%,_#141420_97.72%)] h-[42px] flex items-center gap-x-4 py-2 px-2'>
+                <div className='bg-[linear-gradient(263.53deg,_#151521_0%,_#151724_25.08%,_#063A50_51.11%,_#07384C_64.27%,_#141420_97.72%)] h-[42px] flex items-center gap-x-4 py-2 px-2 rounded-sm'>
                     <img src={goldcrown} className='w-[42px] h-[24px]' />
                     <div>
                         <h4 className='font-lexend font-normal text-[11px] leading-[14px] tracking-[0] text-[#FFFFFF]'>Corporate Employee Offer</h4>
