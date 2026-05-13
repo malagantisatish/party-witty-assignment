@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.sidebar-heading{
+    @apply font-lexend font-normal text-[18px] leading-[100%] tracking-[0]
+}
